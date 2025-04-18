@@ -1,0 +1,37 @@
+ol.user-list-box li, .user-detail-box ol li {
+  margin: 1rem 0;
+  text-align: start;
+  cursor: pointer;
+}
+ol.user-list-box {
+  margin-top: 2rem;
+}
+.main-search-outer .checkbox {
+  margin-top: 1rem;
+}
+.main-search-outer .checkbox label, .user-detail-box button{
+  cursor: pointer;
+}
+.main-search-outer .checkbox input {
+  margin-right: 0.5rem;
+}
+.main-search-outer .search-box button {
+  background: #d93900;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  color: #fff;
+  cursor: pointer;
+}
+.main-search-outer .search-box input {
+  border: none;
+  border-bottom: 1px solid #00000073;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+}
+.main-search-outer h1 {
+  font-size: 4rem;
+}
+.main-search-outer {
+  text-align: center;
+}
